@@ -1,0 +1,10 @@
+﻿  test.cpp
+E:\Work\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(69,20): warning C4359: “LIEF::ART::ART_17::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+E:\Work\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(130,20): warning C4359: “LIEF::ART::ART_29::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+E:\Work\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(214,20): warning C4359: “LIEF::ART::ART_30::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+E:\Work\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(296,20): warning C4359: “LIEF::ART::ART_44::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+E:\Work\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(390,20): warning C4359: “LIEF::ART::ART_56::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+  LIEF will disable #define enums. Please use LIEF_PE_XXXX or LIEF::PE::XXXX instead!
+test.obj : error LNK2001: 无法解析的外部符号 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl LIEF::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class LIEF::Binary const &)" (??6LIEF@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@ABVBinary@0@@Z)
+test.obj : error LNK2001: 无法解析的外部符号 "public: static class std::unique_ptr<class LIEF::PE::Binary,struct std::default_delete<class LIEF::PE::Binary> > __cdecl LIEF::PE::Parser::parse(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?parse@Parser@PE@LIEF@@SA?AV?$unique_ptr@VBinary@PE@LIEF@@U?$default_delete@VBinary@PE@LIEF@@@std@@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@5@@Z)
+E:\Work\code_calculate\test\Release\test.exe : fatal error LNK1120: 2 个无法解析的外部命令

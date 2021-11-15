@@ -1,0 +1,16 @@
+﻿  md5.cpp
+  test.cpp
+E:\C++ Project\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(69,20): warning C4359: “LIEF::ART::ART_17::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+E:\C++ Project\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(130,20): warning C4359: “LIEF::ART::ART_29::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+E:\C++ Project\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(214,20): warning C4359: “LIEF::ART::ART_30::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+E:\C++ Project\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(296,20): warning C4359: “LIEF::ART::ART_44::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+E:\C++ Project\code_calculate\LIEF-0.11.5-win64\include\LIEF\ART\Structures.hpp(390,20): warning C4359: “LIEF::ART::ART_56::header”: 对齐说明符小于实际对齐方式(8)，将被忽略。
+  LIEF will disable #define enums. Please use LIEF_PE_XXXX or LIEF::PE::XXXX instead!
+E:\C++ Project\code_calculate\test\test\xxhash.h(3068,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  xxhash.c
+E:\C++ Project\code_calculate\test\test\xxhash.h(3068,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 998 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  test.vcxproj -> E:\C++ Project\code_calculate\test\x64\Release\test.exe
