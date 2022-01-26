@@ -1,0 +1,2 @@
+# MachO_codeCalculate
+计算MachO文件代码段的hash
